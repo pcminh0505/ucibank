@@ -1,6 +1,9 @@
 # Attribute Information:
+## File structure:
+- `banking.csv`: Train data
+- `banking-batch.csv`: Test data
+- `Appendix: AWS Machine Learning.pdf`: Guide to train model on AWS Cloud Services
 
-Input variables:
 ## Bank client data:
 1. `age` (numeric)
 2. `job` : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
