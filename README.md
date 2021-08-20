@@ -1,4 +1,7 @@
 # Attribute Information:
+
+Reference source: [Kaggle - Bank Marketing Campaign || Opening a Term Deposit](https://www.kaggle.com/janiobachmann/bank-marketing-campaign-opening-a-term-deposit)
+
 ## File structure:
 - `banking.csv`: Train data
 - `banking-batch.csv`: Test data
